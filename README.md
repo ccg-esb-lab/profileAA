@@ -1,5 +1,5 @@
 # profileAA
-Scripts and data necessary to produce figures in "Dynamic proteome allocation regulates the profile of interaction of auxotrophic bacterial consortia". 
+Scripts and data necessary to produce figures in "_Dynamic proteome allocation regulates the profile of interaction of auxotrophic bacterial consortia_". 
 D Reyes-González, H De Luna-Valenciano, J Utrilla, M Sieber, R Peña-Miller & A Fuentes-Hernández
 
 The following Jupyter Notebooks are coded in Julia and can be found in code/jl-files/
